@@ -1,6 +1,6 @@
 # Introduccion
 Dado que todos los retos forenses se efectuan sobre el mismo dump de memoria todos los retos estaran contenidos en este documento.
-La imagen se puede encontrar en https://drive.google.com/open?id=1Srqg8sGwhQS7ZpkVzMPjuKbfJ3rW_TaA 
+La imagen se puede encontrar en https://mega.nz/#!HB1m0CJJ!NsmOEvBDvDMlh0-DiLSyyNF1xr11PUPH4bwQOJS9hJ4
 (Si el link se cae notificadmelo para resubirlo)
 
 ## ¿Servicio de correo?
